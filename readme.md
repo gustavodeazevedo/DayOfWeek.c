@@ -1,0 +1,1 @@
+Este programa em C solicita ao usuário que insira um número representando um dia da semana (1 para Domingo, 2 para Segunda, etc.). Em seguida, ele usa uma estrutura switch para imprimir o dia correspondente. Se o número digitado não corresponder a um dia válido (1 a 7), o programa informa que o dia não existe.
